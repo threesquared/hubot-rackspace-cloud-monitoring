@@ -1,0 +1,21 @@
+{
+  "name": "hubot-rackspace-monitoring",
+  "description": "A hubot script to relay Rackspace Cloud Monitoring notifications",
+  "version": "0.0.1",
+  "author": "Ben Speakman <ben@3sq.re>",
+  "license": "MIT",
+  "keywords": "hubot, hubot-scripts, rackspace, monitoring",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:threesquared/hubot-rackspace-cloud-monitoring.git"
+  },
+  "bugs": {
+    "url": "https://github.com/threesquared/hubot-rackspace-cloud-monitoring/issues"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "hubot": "2.x"
+  },
+  "main": "index.coffee"
+}
